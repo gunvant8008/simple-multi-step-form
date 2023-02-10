@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input {
+  border: 2px solid teal;
+  box-shadow: 5px 5px #888888;
+  padding: 1rem;
+  width: 24rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+button {
+  padding: 1rem;
+  background-color: teal;
+  margin: 10px;
+  color: white;
+  font-weight: bold;
+  box-shadow: -5px 5px #bebcbc;
+  width: 10rem;
+}
